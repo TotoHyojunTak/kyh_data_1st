@@ -1,0 +1,13 @@
+#server:
+#  port: 8080
+#
+#logging:
+#  level:
+#    org.springframework: INFO
+#
+#spring:
+#  datasource:
+#    driverClassName: org.mariadb.jdbc.Driver
+#    url: jdbc:mariadb://127.0.0.1:3306/1jdbc
+#    username: root
+#    password: root
